@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1654
+slug  : the-stop-and-wait-arq
+seal  : e7d93c38d11407b593274c323e77ec0eedb2afecac66830b8745a8fb06371cd5
+prev  : f93fef604a7907595fe58ce08e9c5eb1f3380f2d7fb02b02d47e3fe554a6614a
+link  : be5de9203bc580a00b11e48d34fb8b24e24132705972fee026cab5251b7f4de8
+head  : ab7534787a3e851565e9e4deb3785506d0823223c86e1d7336ac9e1427c355d4
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
